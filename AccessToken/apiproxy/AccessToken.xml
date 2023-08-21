@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="AccessToken">
+    <Basepaths>/accesstoken</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1596183147277</CreatedAt>
+    <CreatedBy>vikaskumawat499@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>AccessToken</DisplayName>
+    <LastModifiedAt>1615270983031</LastModifiedAt>
+    <LastModifiedBy>vikaskumawat499@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:18207db8f2d45882b8c453a33d6b3fea3e6581eac88baec278fdbffde7fc82fe352b8b492b1a4711dc0e92cef3c365bff5fd8715433f4af62724875efc4428ff:ap-northeast-1</ManifestVersion>
+    <Policies>
+        <Policy>GetAccessToken</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
